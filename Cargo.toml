@@ -16,5 +16,3 @@ readme = "README.md"
 categories = ["external-ffi-bindings", "science"]
 keywords = ["linear-algebra"]
 
-[dependencies]
-libc = "0.2"
